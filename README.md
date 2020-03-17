@@ -1,0 +1,2 @@
+# LiteSpeed-Server
+ MainServer
